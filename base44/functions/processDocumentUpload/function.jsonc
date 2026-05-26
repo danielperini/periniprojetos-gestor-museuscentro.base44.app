@@ -1,0 +1,4 @@
+{
+  "name": "processDocumentUpload",
+  "entrypoint": "entry.ts"
+}
